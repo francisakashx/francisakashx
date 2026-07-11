@@ -12,8 +12,9 @@
 
 
 ## Beyond Coding:
-•🏋️ Gym 
+• 🏋️ Gym 
 • 🎮 Gaming 
+• 🚚 Keeping the Wheels Rolling
 • ☕ Quiet Focus 
 • 🚀 Building Side Projects 
 • 📊 Growing as a Data Engineer
