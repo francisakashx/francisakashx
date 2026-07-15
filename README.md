@@ -3,7 +3,7 @@
 
 I love breaking problems into smaller pieces, building solutions, and learning something new every day. If a project teaches me one new thing, it's worth building.<br>
 
-When I'm away from my keyboard, I'm either helping with my family's business, at the gym, or thinking about the next project to start.
+When I'm away from my keyboard, I'm either at the gym, or thinking about the next project to start.
 
 
 # Tech Stack:
