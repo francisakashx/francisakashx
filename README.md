@@ -5,6 +5,7 @@ I love breaking problems into smaller pieces, building solutions, and learning s
 
 When I'm away from my keyboard, I'm either at the gym, or thinking about the next project to start.
 
+Build. Break. Learn. Repeat. 🚀
 
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
