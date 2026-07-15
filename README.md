@@ -1,5 +1,9 @@
 # About Me:
-👋 Hi, I'm Francis Akash.<br><br>I'm an aspiring Data Engineer and Data Analyst with a passion for building data-driven applications and solving real-world problems through technology. My interests include data engineering, cloud computing and analytics.<br><br>I'm currently strengthening my skills in Python, SQL, big data technologies, cloud platforms, and data visualization while developing projects that demonstrate scalable data processing and analytical thinking.<br><br>"Good data tells a story. Great engineering makes that story accessible."<br>
+👋 Hey, I'm Francis Akash.<br><br>I'm currently on a journey to become a Data Engineer, exploring everything from Python and SQL to AWS and Big Data. Most of what you'll find here are projects, experiments, and things I built while figuring stuff out.<br>
+
+I love breaking problems into smaller pieces, building solutions, and learning something new every day. If a project teaches me one new thing, it's worth building.<br>
+
+When I'm away from my keyboard, I'm either helping with my family's business, at the gym, or thinking about the next project to start.
 
 
 # Tech Stack:
